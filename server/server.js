@@ -224,9 +224,6 @@ server.listen(PORT, () => {
     console.log('\n⚠️  OpenAI API key not found. Using fallback intent analysis.');
     console.log('To use AI-powered search, set OPENAI_API_KEY in .env file\n');
   }
-  
-  // Start random inventory updates for demo (every 30 seconds)
-  // inventoryTracker.startRandomInventoryUpdates(30000);
 });
 
 module.exports = { app, server, wss };

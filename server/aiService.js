@@ -68,6 +68,7 @@ Respond with ONLY a comma-separated list of relevant tags, no explanations.`
   fallbackIntentAnalysis(query) {
     const lowerQuery = query.toLowerCase();
     const tags = new Set();
+    const MIN_WORD_LENGTH = 3;
 
     // Intent mappings
     const intentMappings = {
@@ -95,7 +96,7 @@ Respond with ONLY a comma-separated list of relevant tags, no explanations.`
     }
 
     // Also add individual words from query as potential tags
-    const words = lowerQuery.split(/\s+/).filter(word => word.length > 3);
+    const words = lowerQuery.split(/\s+/).filter(word => word.length > MIN_WORD_LENGTH);
     words.forEach(word => tags.add(word));
 
     return Array.from(tags);

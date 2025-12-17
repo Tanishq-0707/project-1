@@ -1,6 +1,6 @@
 // Configuration
 const API_BASE = window.location.origin;
-const WS_URL = `ws://${window.location.host}`;
+const WS_URL = `${window.location.protocol === 'https:' ? 'wss:' : 'ws:'}//${window.location.host}`;
 
 let ws = null;
 let allProducts = [];

@@ -154,8 +154,9 @@ class InventoryTracker {
       data: update
     });
 
+    const WebSocket = require('ws');
     this.wsServer.clients.forEach(client => {
-      if (client.readyState === 1) { // WebSocket.OPEN
+      if (client.readyState === WebSocket.OPEN) {
         client.send(message);
       }
     });
