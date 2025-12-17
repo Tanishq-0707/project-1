@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "UV Protection Swimming Goggles",
+      "category": "goggles",
+      "tags": [
+        "beach",
+        "swimming",
+        "water sports",
+        "pool",
+        "vacation"
+      ],
+      "price": 24.99,
+      "inventory": 44,
+      "description": "Professional swimming goggles with UV protection"
+    },
+    {
+      "id": 2,
+      "name": "Snorkeling Mask & Goggles Set",
+      "category": "goggles",
+      "tags": [
+        "beach",
+        "snorkeling",
+        "diving",
+        "ocean",
+        "vacation"
+      ],
+      "price": 39.99,
+      "inventory": 28,
+      "description": "Complete snorkeling set for underwater exploration"
+    },
+    {
+      "id": 3,
+      "name": "Safety Goggles",
+      "category": "goggles",
+      "tags": [
+        "protection",
+        "work",
+        "safety",
+        "construction"
+      ],
+      "price": 15.99,
+      "inventory": 120,
+      "description": "Industrial safety goggles for work protection"
+    },
+    {
+      "id": 4,
+      "name": "Women's Beach Bikini Set",
+      "category": "beachwear",
+      "tags": [
+        "beach",
+        "swimming",
+        "summer",
+        "vacation",
+        "pool"
+      ],
+      "price": 45.99,
+      "inventory": 67,
+      "description": "Stylish two-piece swimwear for beach activities"
+    },
+    {
+      "id": 5,
+      "name": "Men's Swim Trunks",
+      "category": "beachwear",
+      "tags": [
+        "beach",
+        "swimming",
+        "summer",
+        "vacation",
+        "pool"
+      ],
+      "price": 32.99,
+      "inventory": 89,
+      "description": "Quick-dry swim shorts for men"
+    },
+    {
+      "id": 6,
+      "name": "Beach Cover-Up Dress",
+      "category": "beachwear",
+      "tags": [
+        "beach",
+        "summer",
+        "vacation",
+        "fashion"
+      ],
+      "price": 28.99,
+      "inventory": 42,
+      "description": "Light and breezy beach cover-up"
+    },
+    {
+      "id": 7,
+      "name": "Kids Rash Guard Set",
+      "category": "beachwear",
+      "tags": [
+        "beach",
+        "kids",
+        "swimming",
+        "sun protection",
+        "vacation"
+      ],
+      "price": 34.99,
+      "inventory": 55,
+      "description": "UV protective swimwear for children"
+    },
+    {
+      "id": 8,
+      "name": "Portable Charcoal Grill",
+      "category": "barbecue",
+      "tags": [
+        "bbq",
+        "grilling",
+        "outdoor",
+        "camping",
+        "cooking",
+        "beach"
+      ],
+      "price": 79.99,
+      "inventory": 23,
+      "description": "Compact charcoal grill perfect for beach BBQs"
+    },
+    {
+      "id": 9,
+      "name": "BBQ Tool Set (5 pieces)",
+      "category": "barbecue",
+      "tags": [
+        "bbq",
+        "grilling",
+        "tools",
+        "outdoor",
+        "cooking"
+      ],
+      "price": 34.99,
+      "inventory": 78,
+      "description": "Essential grilling tools set"
+    },
+    {
+      "id": 10,
+      "name": "Meat Thermometer",
+      "category": "barbecue",
+      "tags": [
+        "bbq",
+        "grilling",
+        "cooking",
+        "temperature"
+      ],
+      "price": 19.99,
+      "inventory": 95,
+      "description": "Digital instant-read meat thermometer"
+    },
+    {
+      "id": 11,
+      "name": "Grill Cleaning Brush",
+      "category": "barbecue",
+      "tags": [
+        "bbq",
+        "grilling",
+        "cleaning",
+        "maintenance"
+      ],
+      "price": 12.99,
+      "inventory": 110,
+      "description": "Heavy-duty grill cleaning brush"
+    },
+    {
+      "id": 12,
+      "name": "Beach Towel Set (4 pack)",
+      "category": "beach accessories",
+      "tags": [
+        "beach",
+        "towel",
+        "vacation",
+        "swimming"
+      ],
+      "price": 49.99,
+      "inventory": 33,
+      "description": "Extra large beach towels"
+    },
+    {
+      "id": 13,
+      "name": "Beach Umbrella with Sand Anchor",
+      "category": "beach accessories",
+      "tags": [
+        "beach",
+        "shade",
+        "sun protection",
+        "vacation"
+      ],
+      "price": 54.99,
+      "inventory": 18,
+      "description": "Large beach umbrella with UV protection"
+    },
+    {
+      "id": 14,
+      "name": "Waterproof Beach Bag",
+      "category": "beach accessories",
+      "tags": [
+        "beach",
+        "bag",
+        "waterproof",
+        "vacation",
+        "storage"
+      ],
+      "price": 24.99,
+      "inventory": 61,
+      "description": "Spacious waterproof beach tote"
+    },
+    {
+      "id": 15,
+      "name": "Cooler Box (30L)",
+      "category": "beach accessories",
+      "tags": [
+        "beach",
+        "cooler",
+        "drinks",
+        "food",
+        "vacation",
+        "bbq"
+      ],
+      "price": 69.99,
+      "inventory": 29,
+      "description": "Insulated cooler for beach trips and BBQs"
+    },
+    {
+      "id": 16,
+      "name": "Beach Ball Set",
+      "category": "beach toys",
+      "tags": [
+        "beach",
+        "toys",
+        "games",
+        "kids",
+        "fun",
+        "vacation"
+      ],
+      "price": 14.99,
+      "inventory": 102,
+      "description": "Colorful inflatable beach balls"
+    },
+    {
+      "id": 17,
+      "name": "Frisbee",
+      "category": "beach toys",
+      "tags": [
+        "beach",
+        "games",
+        "outdoor",
+        "fun",
+        "vacation"
+      ],
+      "price": 9.99,
+      "inventory": 87,
+      "description": "Classic flying disc for beach games"
+    },
+    {
+      "id": 18,
+      "name": "Sandcastle Building Kit",
+      "category": "beach toys",
+      "tags": [
+        "beach",
+        "kids",
+        "toys",
+        "sand",
+        "vacation"
+      ],
+      "price": 19.99,
+      "inventory": 73,
+      "description": "Complete sandcastle building set"
+    },
+    {
+      "id": 19,
+      "name": "Inflatable Pool Float",
+      "category": "pool accessories",
+      "tags": [
+        "pool",
+        "beach",
+        "float",
+        "swimming",
+        "vacation",
+        "relaxation"
+      ],
+      "price": 29.99,
+      "inventory": 41,
+      "description": "Giant inflatable lounger for pool or beach"
+    },
+    {
+      "id": 20,
+      "name": "Waterproof Phone Case",
+      "category": "beach accessories",
+      "tags": [
+        "beach",
+        "waterproof",
+        "phone",
+        "protection",
+        "vacation"
+      ],
+      "price": 16.99,
+      "inventory": 156,
+      "description": "Universal waterproof phone pouch"
+    }
+  ]
+}
